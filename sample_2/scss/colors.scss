@@ -2,6 +2,10 @@
 @include generateColors("white", $default-white-color, $default-button-color);
 @include generateColors("black", $default-button-color);
 
+/* Common Colors */
+@include generateColors("main", $colorMain);
+@include generateColors("info", $colorInfo);
+
 /* Colors by Google Meterial Design (C) */
 @include generateColors("red", $red);
 @include generateColors("pink", $pink);
@@ -20,6 +24,7 @@
 @include generateColors("deepOrange", $deepOrange);
 @include generateColors("brown", $brown);
 @include generateColors("gray", $gray);
+@include generateColors("lightGray", $lightGray);
 @include generateColors("blueGray", $blueGray);
 
 /* Social Colors */

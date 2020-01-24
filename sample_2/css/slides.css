@@ -4128,6 +4128,41 @@ article, .text {
   .stroke.button.black svg {
     fill: #202020 !important; }
 
+/* Common Colors */
+.main {
+  background: #201862 !important;
+  color: #fff !important; }
+  .main svg {
+    fill: #fff !important; }
+
+.text-main {
+  color: #201862 !important; }
+  .text-main.button svg {
+    fill: #201862 !important; }
+
+.stroke.button.main {
+  color: #201862 !important;
+  border-color: #201862 !important; }
+  .stroke.button.main svg {
+    fill: #201862 !important; }
+
+.info {
+  background: #8e8e8e !important;
+  color: #fff !important; }
+  .info svg {
+    fill: #fff !important; }
+
+.text-info {
+  color: #8e8e8e !important; }
+  .text-info.button svg {
+    fill: #8e8e8e !important; }
+
+.stroke.button.info {
+  color: #8e8e8e !important;
+  border-color: #8e8e8e !important; }
+  .stroke.button.info svg {
+    fill: #8e8e8e !important; }
+
 /* Colors by Google Meterial Design (C) */
 .red {
   background: #F44336 !important;
@@ -4266,21 +4301,21 @@ article, .text {
     fill: #009688 !important; }
 
 .green {
-  background: #4CAF50 !important;
+  background: #6ac80a !important;
   color: #fff !important; }
   .green svg {
     fill: #fff !important; }
 
 .text-green {
-  color: #4CAF50 !important; }
+  color: #6ac80a !important; }
   .text-green.button svg {
-    fill: #4CAF50 !important; }
+    fill: #6ac80a !important; }
 
 .stroke.button.green {
-  color: #4CAF50 !important;
-  border-color: #4CAF50 !important; }
+  color: #6ac80a !important;
+  border-color: #6ac80a !important; }
   .stroke.button.green svg {
-    fill: #4CAF50 !important; }
+    fill: #6ac80a !important; }
 
 .lightGreen {
   background: #8BC34A !important;
@@ -4417,6 +4452,23 @@ article, .text {
   border-color: #9D9D9D !important; }
   .stroke.button.gray svg {
     fill: #9D9D9D !important; }
+
+.lightGray {
+  background: #f1f1f1 !important;
+  color: #fff !important; }
+  .lightGray svg {
+    fill: #fff !important; }
+
+.text-lightGray {
+  color: #f1f1f1 !important; }
+  .text-lightGray.button svg {
+    fill: #f1f1f1 !important; }
+
+.stroke.button.lightGray {
+  color: #f1f1f1 !important;
+  border-color: #f1f1f1 !important; }
+  .stroke.button.lightGray svg {
+    fill: #f1f1f1 !important; }
 
 .blueGray {
   background: #607D8B !important;
@@ -5281,7 +5333,7 @@ p.remind-43 {
       position: relative;
       left: -1px; } }
   .form-55 [data-success-class="message-sent"].message-sent {
-    background: #4CAF50 !important; }
+    background: #6ac80a !important; }
 
 .pad-59 {
   border-radius: 6px;
