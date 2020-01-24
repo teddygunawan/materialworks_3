@@ -23,7 +23,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
-  color: #1E0E62;
+  color: #1e1360;
   -webkit-font-smoothing: antialiased; }
   body.dev {
     background: #ccc;
@@ -66,7 +66,7 @@ input, textarea {
   border: 0;
   outline: none;
   background: transparent;
-  color: #1E0E62;
+  color: #1e1360;
   resize: none; }
 
 label {
@@ -400,8 +400,8 @@ b, strong {
     margin-top: 30px; } }
 
 .header_5 .block_with_border {
-  border-left: 2px solid rgba(145, 157, 171, 0.3);
-  border-right: 2px solid rgba(145, 157, 171, 0.3); }
+  border-left: 2px solid rgba(121, 133, 148, 0.3);
+  border-right: 2px solid rgba(121, 133, 148, 0.3); }
 
 @media (max-width: 991.98px) {
   .header_5 .block_with_border {
@@ -689,7 +689,7 @@ b, strong {
   padding: 5px 15px; }
   .navigation_22 .navigation_popup .link:hover {
     background: #EBEAED;
-    color: #1E0E62; }
+    color: #1e1360; }
 
 .navigation_22 .navigation_popup .inner {
   top: 0;
@@ -768,10 +768,10 @@ b, strong {
     right: auto;
     bottom: 25px; }
     .navigation_26 .slider .slick-dots li.slick-active button {
-      background: #1E0E62; }
+      background: #1e1360; }
     .navigation_26 .slider .slick-dots li button {
       background: transparent;
-      border: 2px solid #1E0E62; }
+      border: 2px solid #1e1360; }
 
 .navigation_26 .right_block {
   overflow: hidden; }
@@ -999,7 +999,7 @@ b, strong {
   background: rgba(235, 234, 237, 0.5);
   font-family: Courier New, monospace; }
   .content_34 #copy_from_me pre {
-    color: #1E0E62; }
+    color: #1e1360; }
 
 @media (max-width: 992.98px) {
   .content_34 .right {
@@ -1659,7 +1659,7 @@ b, strong {
     display: block;
     width: 0%;
     height: 3px;
-    background: #1E0E62;
+    background: #1e1360;
     position: absolute;
     right: 0;
     bottom: -3px;
@@ -1669,7 +1669,7 @@ b, strong {
     left: 0;
     right: auto; }
   .form_4 .form_4_menu a.slick-current {
-    color: #1E0E62; }
+    color: #1e1360; }
     .form_4 .form_4_menu a.slick-current:after {
       width: 100%; }
 
@@ -1789,7 +1789,7 @@ b, strong {
     display: block;
     width: 0%;
     height: 3px;
-    background: #1E0E62;
+    background: #1e1360;
     position: absolute;
     right: 0;
     bottom: -3px;
@@ -1799,7 +1799,7 @@ b, strong {
     left: 0;
     right: auto; }
   .form_15 .form_15_menu a.slick-current {
-    color: #1E0E62; }
+    color: #1e1360; }
     .form_15 .form_15_menu a.slick-current:after {
       width: 100%; }
 
@@ -2491,7 +2491,7 @@ b, strong {
       width: 4px;
       height: 4px;
       border-radius: 100%;
-      background: #919DAB; }
+      background: #798594; }
 
 @media (max-width: 575.98px) {
   .ecommerce_2 .product {
@@ -2588,13 +2588,13 @@ b, strong {
 .ecommerce_7 .categories a {
   border-bottom: 2px solid transparent; }
   .ecommerce_7 .categories a:hover {
-    border-color: #391bbb; }
+    border-color: #3924b5; }
 
 .ecommerce_7 .categories .active {
-  color: #919DAB;
-  border-color: #919DAB; }
+  color: #798594;
+  border-color: #798594; }
   .ecommerce_7 .categories .active:hover {
-    border-color: #919DAB; }
+    border-color: #798594; }
 
 .ecommerce_7 .img_link img {
   transition: all 0.25s; }
@@ -2704,7 +2704,7 @@ b, strong {
 
 .ecommerce_11 input[type=radio]:checked + label {
   background: #ffffff;
-  color: #1E0E62; }
+  color: #1e1360; }
 
 .ecommerce_11 input[type=radio] + label {
   height: 50px;
@@ -2714,7 +2714,7 @@ b, strong {
   .ecommerce_11 input[type=radio] + label:before {
     display: none; }
   .ecommerce_11 input[type=radio] + label:hover {
-    color: #1E0E62; }
+    color: #1e1360; }
 
 @media (max-width: 575.98px) {
   .ecommerce_11 .header_holder {
@@ -2735,7 +2735,7 @@ b, strong {
       width: 4px;
       height: 4px;
       border-radius: 100%;
-      background: #919DAB; }
+      background: #798594; }
   .ecommerce_12 .product .btn {
     left: 50%;
     bottom: 30px;
@@ -3195,18 +3195,18 @@ b, strong {
       background: #EBEAED; }
     .ecommerce_31 .quantity_selector .control::-moz-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_31 .quantity_selector .control::-webkit-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_31 .quantity_selector .control::selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
   .ecommerce_31 .quantity_selector input {
     width: 40px;
     border-left: 2px solid #EBEAED;
     border-right: 2px solid #EBEAED;
-    color: #1E0E62;
+    color: #1e1360;
     font-weight: 500;
     text-align: center; }
 
@@ -3222,7 +3222,7 @@ b, strong {
     width: 4px;
     height: 4px;
     border-radius: 100%;
-    background: #919DAB; }
+    background: #798594; }
 
 @media (max-width: 991.98px) {
   .ecommerce_31 .img_link {
@@ -3282,18 +3282,18 @@ b, strong {
       background: #EBEAED; }
     .ecommerce_32 .quantity_selector .control::-moz-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_32 .quantity_selector .control::-webkit-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_32 .quantity_selector .control::selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
   .ecommerce_32 .quantity_selector input {
     width: 40px;
     border-left: 2px solid #EBEAED;
     border-right: 2px solid #EBEAED;
-    color: #1E0E62;
+    color: #1e1360;
     font-weight: 500;
     text-align: center; }
 
@@ -3327,9 +3327,9 @@ b, strong {
   cursor: pointer;
   z-index: 10; }
   .ecommerce_33 .remove_product:hover svg path {
-    stroke: #1E0E62; }
+    stroke: #1e1360; }
   .ecommerce_33 .remove_product svg path {
-    stroke: #919DAB;
+    stroke: #798594;
     transition: all 0.25s; }
 
 .ecommerce_33 .img_link img {
@@ -3357,9 +3357,9 @@ b, strong {
     height: 22px; }
 
 .ecommerce_33 .sizes input[type=radio]:checked + label {
-  background: #1E0E62;
+  background: #1e1360;
   color: #ffffff;
-  border-color: #1E0E62; }
+  border-color: #1e1360; }
 
 .ecommerce_33 .sizes input[type=radio] + label:before {
   display: none; }
@@ -3379,7 +3379,7 @@ b, strong {
     border-radius: 0 20px 20px 0;
     border-right: 2px solid #EBEAED; }
   .ecommerce_33 .sizes label:hover {
-    color: #1E0E62; }
+    color: #1e1360; }
 
 .ecommerce_33 .quantity_selector {
   border: 2px solid #EBEAED;
@@ -3392,18 +3392,18 @@ b, strong {
       background: #EBEAED; }
     .ecommerce_33 .quantity_selector .control::-moz-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_33 .quantity_selector .control::-webkit-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_33 .quantity_selector .control::selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
   .ecommerce_33 .quantity_selector input {
     width: 40px;
     border-left: 2px solid #EBEAED;
     border-right: 2px solid #EBEAED;
-    color: #1E0E62;
+    color: #1e1360;
     font-weight: 500;
     text-align: center; }
 
@@ -3445,18 +3445,18 @@ b, strong {
       background: #EBEAED; }
     .ecommerce_34 .quantity_selector .control::-moz-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_34 .quantity_selector .control::-webkit-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_34 .quantity_selector .control::selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
   .ecommerce_34 .quantity_selector input {
     width: 40px;
     border-left: 2px solid #EBEAED;
     border-right: 2px solid #EBEAED;
-    color: #1E0E62;
+    color: #1e1360;
     font-weight: 500;
     text-align: center; }
 
@@ -3489,7 +3489,7 @@ b, strong {
     display: block;
     width: 0%;
     height: 3px;
-    background: #1E0E62;
+    background: #1e1360;
     position: absolute;
     right: 0;
     bottom: -3px;
@@ -3499,7 +3499,7 @@ b, strong {
     left: 0;
     right: auto; }
   .ecommerce_35 .slider_menu a.slick-current {
-    color: #1E0E62; }
+    color: #1e1360; }
     .ecommerce_35 .slider_menu a.slick-current:after {
       width: 100%; }
 
@@ -3520,18 +3520,18 @@ b, strong {
       background: #EBEAED; }
     .ecommerce_35 .quantity_selector .control::-moz-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_35 .quantity_selector .control::-webkit-selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
     .ecommerce_35 .quantity_selector .control::selection {
       background: transparent;
-      color: #1E0E62; }
+      color: #1e1360; }
   .ecommerce_35 .quantity_selector input {
     width: 40px;
     border-left: 2px solid #EBEAED;
     border-right: 2px solid #EBEAED;
-    color: #1E0E62;
+    color: #1e1360;
     font-weight: 500;
     text-align: center; }
 
@@ -3582,9 +3582,9 @@ b, strong {
   cursor: pointer;
   z-index: 10; }
   .ecommerce_36 .remove_product:hover svg path {
-    stroke: #1E0E62; }
+    stroke: #1e1360; }
   .ecommerce_36 .remove_product svg path {
-    stroke: #919DAB;
+    stroke: #798594;
     transition: all 0.25s; }
 
 .ecommerce_36 .total {
@@ -3616,9 +3616,9 @@ b, strong {
   border: 2px solid #EBEAED; }
 
 .ecommerce_37 .delivery_type input[type=radio]:checked + label {
-  background: #1E0E62;
+  background: #1e1360;
   color: #ffffff;
-  border-color: #1E0E62; }
+  border-color: #1e1360; }
 
 .ecommerce_37 .delivery_type input[type=radio] + label:before {
   display: none; }
@@ -3631,7 +3631,7 @@ b, strong {
   border: 2px solid #EBEAED;
   transition: all 0.25s; }
   .ecommerce_37 .delivery_type label:hover {
-    color: #1E0E62; }
+    color: #1e1360; }
 
 @media (max-width: 399.98px) {
   .ecommerce_37 .holder {
@@ -3648,9 +3648,9 @@ b, strong {
   cursor: pointer;
   z-index: 10; }
   .ecommerce_38 .remove_product:hover svg path {
-    stroke: #1E0E62; }
+    stroke: #1e1360; }
   .ecommerce_38 .remove_product svg path {
-    stroke: #919DAB;
+    stroke: #798594;
     transition: all 0.25s; }
 
 .ecommerce_38 .total, .ecommerce_38 .subtotal, .ecommerce_38 .delivery {
